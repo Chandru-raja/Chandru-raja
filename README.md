@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandru-raja
 - 👀 I’m interested in devolping softwares
-- 🌱 I’m currently learning MEAN stack
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on projects that needs logical programs
 
 <!---
