@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chandru-raja
 - 👀 I’m interested in devolping softwares
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on projects that needs logical programs
+- 💞️ I’m looking to collaborate on projects that needs logical connectivity
 
 <!---
 Chandru-raja/Chandru-raja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
